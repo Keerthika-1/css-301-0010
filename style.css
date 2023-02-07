@@ -1,0 +1,86 @@
+ <style>
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.heading
+{
+    position: absolute;
+    left: 419px;
+    top: 176px;
+    height: 88px;
+    width: 530px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 44px;
+    color: #292929;
+}
+.img-a{
+    position: absolute;
+    width: 1100px;
+    height: 374px;
+    left: 227px;
+    top: 264px;
+    background-image: url(image\ 1image.png);
+}
+.content{
+    position: absolute;
+    width: 680px;
+    height: 640x;
+    left: 419px;
+    top: 689px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+p{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150.6%;
+    color: #292929;
+}
+iframe{
+    position: absolute;
+    width: 663px;
+    height: 382px;
+    left: 419px;
+    top: 1375px;
+}
+.ctn{
+    position: absolute;
+    width: 680px;
+    height: 95px;
+    left: 419px;
+    top: 1799px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150.6%;
+    color: #292929;
+}
+.foot{
+    position: absolute;
+    width: 680px;
+    height: 95px;
+    left: 419px;
+    top: 2013px;
+    font-family: 'Georgia';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150.6%;
+    color: #292929;
+}
+    </style>
